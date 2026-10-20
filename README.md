@@ -1,29 +1,101 @@
-<div align="center">
+<!-- studio:settings user=shoshin05 theme=auto hl=2 border=hide light=github-light -->
 
-<img src="./assets/shoshin05-dashboard.png" width="100%" alt="SHOSHIN05 — dark blue professional developer dashboard design" />
+<!-- studio:avatar -->
+<p align="center">
+  <a href="https://github.com/shoshin05"><img src="https://github.com/shoshin05.png" width="110" alt="shoshin05 avatar" /></a>
+</p>
 
-<!-- The dashboard above is the exact concept image. Its depicted numbers, buttons, and music player are illustrative, not live. -->
+<!-- studio:header -->
+<h1 align="center">Hey, I'm SHOSHIN 👋</h1>
 
-### Live GitHub activity
+<p align="center">Computer science student. I learn by building small things.</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shoshin05&show_icons=true&hide_border=true&bg_color=080e17&title_color=3fa9ff&text_color=c8d6e5&icon_color=3fa9ff" alt="Live GitHub statistics" />
+<!-- studio:snake -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-snake-dark.svg?snake=800080&dots=github" />
+    <img src="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-snake-light.svg?snake=800080&dots=github" alt="Contribution snake" />
+  </picture>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoshin05&layout=compact&hide_border=true&bg_color=080e17&title_color=3fa9ff&text_color=c8d6e5" alt="Languages used in public repositories" />
+<!-- studio:about -->
+## About me
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoshin05&bg_color=080e17&color=c8d6e5&line=3fa9ff&point=7cc8ff&area=true&hide_border=true" alt="GitHub activity graph" />
+💻 SHOSHIN
+🚀 Coding my way into AI & Tech  
+📚 Always learning something new
 
-</div>
+- 📍 Based in Delhi
 
----
+<!-- studio:now -->
+## This semester
 
-### About me
+- 📚 Learning data structures and algorithms
+- 🌱 Building my first full-stack app
+- 🤝 Looking for a summer internship
 
-AI & ML student exploring intelligent systems, automation and software development. Learning, building and improving one project at a time.
+<!-- studio:timeline -->
+## Education
 
-### Projects
+| Role | Where | When |
+| --- | --- | --- |
+| BTech AI ML | Greater Noida | Currently Pursuing |
 
-Explore my [repositories](https://github.com/shoshin05?tab=repositories).
+<!-- studio:stack -->
+## What I use
 
----
+<p align="left">
+  <b>Frontend</b><br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/stack-frontend-dark.svg?i=html%2Creact%2Cnextjs%2Cvue%2Ctailwind%2Cvite%2Cpy%2Cjs&perline=8" />
+    <img src="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/stack-frontend-light.svg?i=html,react,nextjs,vue,tailwind,vite,py,js&perline=8" alt="Frontend: html, react, nextjs, vue, tailwind, vite, py, js" width="66%" />
+  </picture>
+</p>
 
-<sub>Design: black / graphite / electric blue · Learn / Build / Improve / Repeat</sub>
+<!-- studio:repos -->
+## Projects
+
+<p align="left">
+  <a href="https://github.com/shoshin05/Dashboard"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-repo-dashboard-dark.svg?username=shoshin05&repo=Dashboard" />
+    <img src="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-repo-dashboard-light.svg?username=shoshin05&repo=Dashboard" alt="Dashboard" />
+  </picture></a>
+  <a href="https://github.com/shoshin05/Pricing-Page"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-repo-pricing-page-dark.svg?username=shoshin05&repo=Pricing-Page" />
+    <img src="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-repo-pricing-page-light.svg?username=shoshin05&repo=Pricing-Page" alt="Pricing-Page" />
+  </picture></a>
+  <a href="https://github.com/shoshin05/NavBar"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-repo-navbar-dark.svg?username=shoshin05&repo=NavBar" />
+    <img src="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-repo-navbar-light.svg?username=shoshin05&repo=NavBar" alt="NavBar" />
+  </picture></a>
+  <a href="https://github.com/shoshin05/GlassLoginUI"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-repo-glassloginui-dark.svg?username=shoshin05&repo=GlassLoginUI" />
+    <img src="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-repo-glassloginui-light.svg?username=shoshin05&repo=GlassLoginUI" alt="GlassLoginUI" />
+  </picture></a>
+</p>
+
+<!-- studio:streak+langs -->
+## Streak
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-streak-dark.svg" />
+    <img src="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-streak-light.svg" alt="GitHub streak" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-langs-dark.svg?layout=compact&langs_count=6" />
+    <img src="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-langs-light.svg?layout=compact&langs_count=6" alt="Top languages" width="49%" />
+  </picture>
+</p>
+
+<!-- studio:contact -->
+## Say hi
+
+Always happy to pair on a project or talk about internships.
+
+📫 **Email:** [shoshin05@example.com](mailto:shoshin05@example.com)
+
+<!-- studio:socials -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/shoshin05">LinkedIn</a> · <a href="https://leetcode.com/u/shoshin05">LeetCode</a> · <a href="https://dev.to/shoshin05">DEV</a>
+</p>
