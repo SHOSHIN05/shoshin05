@@ -1,101 +1,86 @@
-<!-- studio:settings user=shoshin05 theme=auto hl=2 border=hide light=github-light -->
+<div align="center">
 
-<!-- studio:avatar -->
-<p align="center">
-  <a href="https://github.com/shoshin05"><img src="https://github.com/shoshin05.png" width="110" alt="shoshin05 avatar" /></a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./banner.svg"><img src="./banner-light.svg" alt="SHOSHIN, AI ML Student" width="100%"></picture>
 
-<!-- studio:header -->
-<h1 align="center">Hey, I'm SHOSHIN 👋</h1>
+</div>
 
-<p align="center">Computer science student. I learn by building small things.</p>
+<div align="center">
 
-<!-- studio:snake -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-snake-dark.svg?snake=800080&dots=github" />
-    <img src="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-snake-light.svg?snake=800080&dots=github" alt="Contribution snake" />
-  </picture>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/showpiece.svg"><img src="./cards/showpiece-light.svg" alt="Holo trading card for SHOSHIN05" width="100%"></picture>
 
-<!-- studio:about -->
-## About me
+</div>
 
-💻 SHOSHIN
-🚀 Coding my way into AI & Tech  
-📚 Always learning something new
+<div align="center">
 
-- 📍 Based in Delhi
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/divider-stats.svg"><img src="./cards/divider-stats-light.svg" alt="GitHub stats" width="100%"></picture>
 
-<!-- studio:now -->
-## This semester
+</div>
 
-- 📚 Learning data structures and algorithms
-- 🌱 Building my first full-stack app
-- 🤝 Looking for a summer internship
+<div align="center">
 
-<!-- studio:timeline -->
-## Education
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/stats.svg"><img src="./cards/stats-light.svg" alt="GitHub stats for SHOSHIN05" width="412"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/streak.svg"><img src="./cards/streak-light.svg" alt="Contribution streak for SHOSHIN05" width="412"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/activity.svg"><img src="./cards/activity-light.svg" alt="Contribution heatmap for SHOSHIN05" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/universe.svg"><img src="./cards/universe-light.svg" alt="Contribution universe for SHOSHIN05" width="100%"></picture>
 
-| Role | Where | When |
-| --- | --- | --- |
-| BTech AI ML | Greater Noida | Currently Pursuing |
+</div>
 
-<!-- studio:stack -->
-## What I use
+<div align="center">
 
-<p align="left">
-  <b>Frontend</b><br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/stack-frontend-dark.svg?i=html%2Creact%2Cnextjs%2Cvue%2Ctailwind%2Cvite%2Cpy%2Cjs&perline=8" />
-    <img src="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/stack-frontend-light.svg?i=html,react,nextjs,vue,tailwind,vite,py,js&perline=8" alt="Frontend: html, react, nextjs, vue, tailwind, vite, py, js" width="66%" />
-  </picture>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/divider-stack.svg"><img src="./cards/divider-stack-light.svg" alt="Stack" width="100%"></picture>
 
-<!-- studio:repos -->
-## Projects
+</div>
 
-<p align="left">
-  <a href="https://github.com/shoshin05/Dashboard"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-repo-dashboard-dark.svg?username=shoshin05&repo=Dashboard" />
-    <img src="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-repo-dashboard-light.svg?username=shoshin05&repo=Dashboard" alt="Dashboard" />
-  </picture></a>
-  <a href="https://github.com/shoshin05/Pricing-Page"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-repo-pricing-page-dark.svg?username=shoshin05&repo=Pricing-Page" />
-    <img src="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-repo-pricing-page-light.svg?username=shoshin05&repo=Pricing-Page" alt="Pricing-Page" />
-  </picture></a>
-  <a href="https://github.com/shoshin05/NavBar"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-repo-navbar-dark.svg?username=shoshin05&repo=NavBar" />
-    <img src="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-repo-navbar-light.svg?username=shoshin05&repo=NavBar" alt="NavBar" />
-  </picture></a>
-  <a href="https://github.com/shoshin05/GlassLoginUI"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-repo-glassloginui-dark.svg?username=shoshin05&repo=GlassLoginUI" />
-    <img src="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-repo-glassloginui-light.svg?username=shoshin05&repo=GlassLoginUI" alt="GlassLoginUI" />
-  </picture></a>
-</p>
+<div align="center">
 
-<!-- studio:streak+langs -->
-## Streak
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/languages.svg"><img src="./cards/languages-light.svg" alt="Languages and tools for SHOSHIN05" width="100%"></picture>
 
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-streak-dark.svg" />
-    <img src="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-streak-light.svg" alt="GitHub streak" width="49%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-langs-dark.svg?layout=compact&langs_count=6" />
-    <img src="https://raw.githubusercontent.com/shoshin05/shoshin05/main/profile-assets/card-langs-light.svg?layout=compact&langs_count=6" alt="Top languages" width="49%" />
-  </picture>
-</p>
+</div>
 
-<!-- studio:contact -->
-## Say hi
+<div align="center">
 
-Always happy to pair on a project or talk about internships.
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/divider-timeline.svg"><img src="./cards/divider-timeline-light.svg" alt="Timeline" width="100%"></picture>
 
-📫 **Email:** [shoshin05@example.com](mailto:shoshin05@example.com)
+</div>
 
-<!-- studio:socials -->
-<p align="left">
-  <a href="https://www.linkedin.com/in/shoshin05">LinkedIn</a> · <a href="https://leetcode.com/u/shoshin05">LeetCode</a> · <a href="https://dev.to/shoshin05">DEV</a>
-</p>
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/timeline.svg"><img src="./cards/timeline-light.svg" alt="Timeline of repositories created by SHOSHIN05" width="100%"></picture>
+
+</div>
+
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/divider-projects.svg"><img src="./cards/divider-projects-light.svg" alt="Projects" width="100%"></picture>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/SHOSHIN05/shoshin05"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-1.svg"><img src="./cards/project-1-light.svg" alt="shoshin05" width="412"></picture></a>
+<a href="https://github.com/SHOSHIN05/Dashboard"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-2.svg"><img src="./cards/project-2-light.svg" alt="Dashboard" width="412"></picture></a>
+<a href="https://github.com/SHOSHIN05/Pricing-Page"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-3.svg"><img src="./cards/project-3-light.svg" alt="Pricing-Page" width="412"></picture></a>
+<a href="https://github.com/SHOSHIN05/NavBar"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-4.svg"><img src="./cards/project-4-light.svg" alt="NavBar" width="412"></picture></a>
+<a href="https://github.com/SHOSHIN05/GlassLoginUI"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/project-5.svg"><img src="./cards/project-5-light.svg" alt="GlassLoginUI" width="412"></picture></a>
+
+</div>
+
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/divider-connect.svg"><img src="./cards/divider-connect-light.svg" alt="Connect" width="100%"></picture>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/SHOSHIN05"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/connect-github.svg"><img src="./cards/connect-github-light.svg" alt="GitHub" width="270"></picture></a>
+
+</div>
+
+<div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/footer.svg"><img src="./cards/footer-light.svg" alt="" width="100%"></picture>
+
+<sub><span>Patched together from public GitHub data</span><span> · made with <a href="https://readme-glassfolio.in/">README Glassfolio</a></span></sub>
+
+</div>
