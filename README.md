@@ -1,13 +1,16 @@
 <div align="center">
 
-![SHOSHIN05 banner](assets/banner.svg)
+<img src="./assets/shoshin05-dashboard.png" width="100%" alt="SHOSHIN05 — dark blue professional developer dashboard design" />
 
-### Building with purpose. Learning with consistency.
+<!-- The dashboard above is the exact concept image. Its depicted numbers, buttons, and music player are illustrative, not live. -->
 
-**B.Tech AI & ML Student** · **Developer in Progress** · **Automation Enthusiast**
+### Live GitHub activity
 
-[![Profile](https://img.shields.io/badge/GitHub-shoshin05-242629?style=flat-square&logo=github&logoColor=white)](https://github.com/shoshin05)
-![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Automation-B99B75?style=flat-square)
+<img src="https://github-readme-stats.vercel.app/api?username=shoshin05&show_icons=true&hide_border=true&bg_color=080e17&title_color=3fa9ff&text_color=c8d6e5&icon_color=3fa9ff" alt="Live GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoshin05&layout=compact&hide_border=true&bg_color=080e17&title_color=3fa9ff&text_color=c8d6e5" alt="Languages used in public repositories" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoshin05&bg_color=080e17&color=c8d6e5&line=3fa9ff&point=7cc8ff&area=true&hide_border=true" alt="GitHub activity graph" />
 
 </div>
 
@@ -15,49 +18,12 @@
 
 ### About me
 
-I'm an AI & Machine Learning student interested in turning ideas into practical software. I'm developing my skills in programming, intelligent systems, and automation through consistent learning and hands-on projects.
+AI & ML student exploring intelligent systems, automation and software development. Learning, building and improving one project at a time.
 
-- **Currently exploring:** AI, machine learning, and workflow automation
-- **What drives me:** Useful technology, problem-solving, and thoughtful design
-- **Beyond code:** Gaming and discovering new technology
-- **Approach:** Learn → Build → Improve → Repeat
+### Projects
 
-### Tools & technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Python, Git, GitHub, VS Code" />
-</p>
-
-*Growing this stack as I learn.*
-
-### GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shoshin05&show_icons=true&hide_border=true&bg_color=151719&title_color=C6A57B&text_color=DADADA&icon_color=C6A57B" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoshin05&layout=compact&hide_border=true&bg_color=151719&title_color=C6A57B&text_color=DADADA" alt="Most used languages" />
-
-</div>
-
-### What I'm working toward
-
-| Focus | Direction |
-| :-- | :-- |
-| AI & ML | Understand concepts and build real applications |
-| Automation | Create tools that simplify repetitive work |
-| Software development | Write maintainable, useful code |
-| Open source | Learn from and contribute to other projects |
-
-### Selected projects
-
-> **Under construction.** I'll feature projects here as I publish them.
+Explore my [repositories](https://github.com/shoshin05?tab=repositories).
 
 ---
 
-<div align="center">
-
-*“Quiet progress. Strong foundations. Work that speaks for itself.”*
-
-<sub>Thanks for visiting · <a href="https://github.com/shoshin05?tab=repositories">Explore my repositories</a></sub>
-
-</div>
+<sub>Design: black / graphite / electric blue · Learn / Build / Improve / Repeat</sub>
